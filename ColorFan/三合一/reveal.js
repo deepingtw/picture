@@ -1,4 +1,5 @@
-window.sr = ScrollReveal({ reset: false, viewFactor: 0.5,mobile: true,
+$(document).ready(function() {
+  window.sr = ScrollReveal({ reset: false, viewFactor: 0.5,mobile: true,
       delay: 200 });
     //從小淡入變大//
 sr.reveal('.smalltobig', { interval: 350, scale: 0.5, beforeReveal: rubberBand});
@@ -25,4 +26,4 @@ function bounce(el) {
   $(el).addClass('bounce');
 }
 
-
+});
