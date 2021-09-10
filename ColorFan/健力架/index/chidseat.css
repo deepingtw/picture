@@ -1,0 +1,254 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+
+
+
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.video1 {
+  position: absolute;
+  left: 9%;
+  top: 26.5%;
+  width: 49%;
+  z-index: 1;
+}
+
+.video2 {
+  position: absolute;
+  left: 6.7%;
+  top: 54.5%;
+  width: 87%;
+  z-index: 1;
+}
+
+.video3 {
+  position: absolute;
+  left: 8%;
+  top: 41%;
+  width: 85%;
+  z-index: 1;
+}
+
+
+
+
+
+.共用1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.共用2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+
+
+
+
+.a02健力架 {
+  position: absolute;
+  left: 34%;
+  top: 16%;
+  width: 15%;
+  z-index: 10;
+}
+
+.a02海盜床 {
+  position: absolute;
+  left: 7%;
+  top: 39.6%;
+  width: 15%;
+  z-index: 10;
+}
+
+.a02小彎板 {
+  position: absolute;
+  left: 60%;
+  top: 33%;
+  width: 15%;
+  z-index: 10;
+}
+
+.cloud {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 11;
+}
+
+
+.a03適應 {
+  position: absolute;
+  left: 6%;
+  top: 61%;
+  width: 87%;
+  z-index: 10;
+}
+
+.a04why {
+  position: absolute;
+  left: 26%;
+  top: 21.5%;
+  width: 48%;
+  z-index: 10;
+}
+
+.a04促進 {
+  position: absolute;
+  left: 61%;
+  top: 32%;
+  width: 33.5%;
+  z-index: 11;
+}
+
+.a08UP {
+  position: absolute;
+  left: 35.2%;
+  top: 15%;
+  width: 31%;
+  z-index: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rotate {
+  -webkit-animation: rotate 1s infinite alternate step-start;
+  animation: rotate 1s infinite alternate step-start;
+}
+
+.light {
+  -webkit-animation: light 1s infinite step-start;
+  animation: light 1s infinite step-start;
+}
+
+.move {
+  -webkit-animation: move 1s infinite step-start;
+  animation: move 1s infinite step-start;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+  }
+  100% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+}
+
+@-webkit-keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(10%);
+    transform: translateX(10%);
+  }
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(3%);
+    transform: translateX(3);
+  }
+}
+
+
