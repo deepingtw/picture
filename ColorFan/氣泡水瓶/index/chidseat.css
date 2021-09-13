@@ -1,0 +1,247 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+
+
+
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.video1 {
+  position: absolute;
+  left: 0%;
+  top: 47%;
+  width: 100%;
+  z-index: 1;
+}
+
+.video2 {
+  position: absolute;
+  left: 0%;
+  top: 30%;
+  width: 100%;
+  z-index: 1;
+}
+
+.video3 {
+  position: absolute;
+  left: 4%;
+  top: 72.7%;
+  width: 92%;
+  z-index: 1;
+}
+
+.video4 {
+  position: absolute;
+  left: 0%;
+  top: 36%;
+  width: 100%;
+  z-index: 1;
+}
+
+
+.video共用 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 1;
+}
+
+
+
+.共用1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+
+
+.a01logo {
+  position: absolute;
+  left: 47%;
+  top: 4%;
+  width: 7%;
+  z-index: 5;
+}
+
+.a02隨手喝 {
+  position: absolute;
+  left: 18%;
+  top: 57%;
+  width: 11%;
+  z-index: 5;
+}
+
+.a02輕鬆洗 {
+  position: absolute;
+  left: 45%;
+  top: 62%;
+  width: 11%;
+  z-index: 5;
+}
+
+.a02秒打氣 {
+  position: absolute;
+  left: 71%;
+  top: 65.5%;
+  width: 13%;
+  z-index: 5;
+}
+
+
+.a11gif {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: -5;
+}
+
+.a15tab {
+  position: absolute;
+  left: 59%;
+  top: 39%;
+  width: 36%;
+  z-index: 5;
+}
+
+.a16CO2 {
+  position: absolute;
+  left: 36%;
+  top: 5%;
+  width: 52%;
+  z-index: 5;
+}
+
+.a16N2 {
+  position: absolute;
+  left: 36%;
+  top: 21%;
+  width: 41%;
+  z-index: 5;
+}
+
+.a19CB {
+  position: absolute;
+  left: 21.5%;
+  top: 92.5%;
+  width: 50%;
+  z-index: 5;
+}
+
+
+
+
+
+
+
+.rotate {
+  -webkit-animation: rotate 1s infinite alternate step-start;
+  animation: rotate 1s infinite alternate step-start;
+}
+
+.light {
+  -webkit-animation: light 1s infinite step-start;
+  animation: light 1s infinite step-start;
+}
+
+.move {
+  -webkit-animation: move 1s infinite step-start;
+  animation: move 1s infinite step-start;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+  50% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+  100% {
+    -webkit-transform: rotate(15deg);
+    transform: rotate(15deg);
+  }
+}
+
+@-webkit-keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(10%);
+    transform: translateX(10%);
+  }
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(10%);
+    transform: translateX(10);
+  }
+}
