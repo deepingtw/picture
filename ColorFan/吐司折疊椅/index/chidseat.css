@@ -1,0 +1,532 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.私宅の {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.吐司大標 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.star {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.heart {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.choose1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.video1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+}
+
+.choose2 {
+  position: absolute;
+  left: 10%;
+  top: 40%;
+  width: 42%;
+  z-index: 10;
+}
+
+.小椅凳 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.工作室 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.休息室 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.好收納易攜帶 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.兒童午睡床 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.和室座椅 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.居家辦公 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.房間 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.客床 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.客廳 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.單人床 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.椅墊 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.遊戲墊 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.靠墊 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.寵物床 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.music {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.choose3 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.choose4 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.music {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.創意抱枕 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.腰靠墊 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.交換禮物 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.療癒荷包蛋 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.坐墊 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.毛絨玩具 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.頭枕 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.是床也是椅子 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.折疊角度 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.想要什麼姿勢 {
+  position: absolute;
+  left: 5%;
+  top: 39%;
+  width: 54%;
+  z-index: 5;
+}
+
+.角度任你擺 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.video2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+}
+
+.sun {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.video3 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+}
+
+.洗完 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.質地 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.line {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.搬運icon {
+  position: absolute;
+  left: 70%;
+  top: 5%;
+  width: 25%;
+  z-index: 5;
+}
+
+.皇冠 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.吐司 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.小片吐司 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.大片吐司 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.三摺吐司 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.小 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.中 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.大 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.帶我走 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.rotate {
+  -webkit-animation: rotate 1s infinite alternate step-start;
+  animation: rotate 1s infinite alternate step-start;
+}
+
+.light {
+  -webkit-animation: light 1s infinite step-start;
+  animation: light 1s infinite step-start;
+}
+
+.move {
+  -webkit-animation: move 1s infinite step-start;
+  animation: move 1s infinite step-start;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(20deg);
+    transform: rotate(20deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+  100% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+
+@-webkit-keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(15%);
+    transform: translateX(15%);
+  }
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(15%);
+    transform: translateX(15%);
+  }
+}
