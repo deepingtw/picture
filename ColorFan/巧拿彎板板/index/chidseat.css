@@ -1,0 +1,611 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.video1 {
+  position: absolute;
+  left: 0%;
+  top: 65.9%;
+  width: 100%;
+  z-index: 1;
+}
+
+.video2 {
+  position: absolute;
+  left: 0%;
+  top: 65.9%;
+  width: 100%;
+  z-index: 1;
+}
+
+.video3 {
+  position: absolute;
+  left: 0%;
+  top: 65.9%;
+  width: 100%;
+  z-index: 1;
+}
+
+.video4 {
+  position: absolute;
+  left: 0%;
+  top: 49%;
+  width: 55.5%;
+  z-index: 1;
+}
+
+.video5 {
+  position: absolute;
+  left: 2.8%;
+  top: 136.8%;
+  width: 45%;
+  z-index: 1;
+}
+
+.video6 {
+  position: absolute;
+  left: 52.5%;
+  top: 233.8%;
+  width: 45%;
+  z-index: 1;
+}
+
+.video7 {
+  position: absolute;
+  left: 12%;
+  top: 101.5%;
+  width: 78%;
+  z-index: 5;
+}
+
+.video8 {
+  position: absolute;
+  left: 0%;
+  top: 107.5%;
+  width: 64%;
+  z-index: 0;
+}
+
+
+
+
+
+
+.彎板動畫 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.w123 {
+  position: absolute;
+  left: 52%;
+  top: 20%;
+  width: 15%;
+  z-index: 5;
+}
+
+.木馬動畫 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.巧拿 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.巧拿大標 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.car動畫 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.好拿 {
+  position: absolute;
+  left: 12%;
+  top: 17%;
+  width: 55%;
+  z-index: 15;
+}
+
+.安全 {
+  position: absolute;
+  left: 7%;
+  top: 50%;
+  width: 75%;
+  z-index: 10;
+}
+
+.墊腳 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.搖籃 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.桌子 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.椅子 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.滑梯 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.軌道 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.隧道 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.翹翹板 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.talk {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.母女 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.a06w {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w3 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w4 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w5 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.w6 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.機器人 {
+  position: absolute;
+  left: 64%;
+  top: 27.1%;
+  width: 20%;
+  z-index: 5;
+}
+
+.桉木 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.夾板 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.木漆 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.影片s1 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.影片s2 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.star {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.體重計 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+.加厚 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.柔軟 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.耐磨 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.防滑 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.隔熱 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.靜音 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.彩虹毛氈 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+.sp1 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.sp2 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.sp3 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.sp4 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.sp5 {
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.win {
+  position: absolute;
+  left: 0%;
+  top: 96%;
+  width: 100%;
+  z-index: 5;
+}
+
+.合格 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常3 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常4 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常5 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.正常6 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+
+
+
+
+
+
+.rotate {
+  -webkit-animation: rotate 1s infinite alternate step-start;
+  animation: rotate 1s infinite alternate step-start;
+}
+
+.light {
+  -webkit-animation: light 1s infinite step-start;
+  animation: light 1s infinite step-start;
+}
+
+.move {
+  -webkit-animation: move 1s infinite step-start;
+  animation: move 1s infinite step-start;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+  }
+  100% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+}
+
+@-webkit-keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(15%);
+    transform: translateX(15%);
+  }
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(15%);
+    transform: translateX(15%);
+  }
+}
