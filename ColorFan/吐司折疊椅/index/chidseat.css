@@ -55,9 +55,9 @@ img {
 
 .choose2 {
   position: absolute;
-  left: 10%;
-  top: 40%;
-  width: 42%;
+  left: 0%;
+  top: 0%;
+  width: 100%;
   z-index: 10;
 }
 
