@@ -1,0 +1,329 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+
+
+
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.video3 {
+  position: absolute;
+  left: 2%;
+  top: 21%;
+  width: 96%;
+  z-index: 1;
+}
+
+.video7 {
+  position: absolute;
+  left: 8.5%;
+  top: 26.3%;
+  width: 50%;
+  z-index: 1;
+}
+
+.video8 {
+  position: absolute;
+  left: 6%;
+  top: 36%;
+  width: 88%;
+  z-index: 1;
+}
+
+.video10 {
+  position: absolute;
+  left: 18%;
+  top: 68%;
+  width: 64%;
+  z-index: 1;
+}
+
+.video11 {
+  position: absolute;
+  left: 54%;
+  top: 40.5%;
+  width: 43%;
+  z-index: 1;
+}
+
+.video12 {
+  position: absolute;
+  left: 14%;
+  top: 32.5%;
+  width: 72%;
+  z-index: 1;
+}
+
+.video13 {
+  position: absolute;
+  left: 37%;
+  top: 10%;
+  width: 43%;
+  z-index: 1;
+}
+
+
+
+
+
+
+
+.共用1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.共用2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 10;
+}
+
+.cloud {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 11;
+}
+
+
+
+
+.a02海盜床 {
+  position: absolute;
+  left: 28%;
+  top: 6%;
+  width: 16%;
+  z-index: 11;
+}
+
+.a02小彎板 {
+  position: absolute;
+  left: 9%;
+  top: 37%;
+  width: 16%;
+  z-index: 11;
+}
+
+.a02健力架 {
+  position: absolute;
+  left: 75%;
+  top: 22%;
+  width: 16%;
+  z-index: 11;
+}
+
+.a04target {
+  position: absolute;
+  left: 17%;
+  top: 9%;
+  width: 31%;
+  z-index: 11;
+}
+
+.a05title {
+  position: absolute;
+  left: 54%;
+  top: 17%;
+  width: 40%;
+  z-index: 11;
+}
+
+.a07t0 {
+  position: absolute;
+  left: 61%;
+  top: 33%;
+  width: 32%;
+  z-index: 11;
+}
+
+.a09小軌道 {
+  position: absolute;
+  left: 7%;
+  top: 22%;
+  width: 18%;
+  z-index: 11;
+}
+.a09小桌子 {
+  position: absolute;
+  left: 75%;
+  top: 10%;
+  width: 18%;
+  z-index: 11;
+}
+.a09小椅子 {
+  position: absolute;
+  left: 75%;
+  top: 22%;
+  width: 18%;
+  z-index: 11;
+}
+.a09小搖籃 {
+  position: absolute;
+  left: 7%;
+  top: 18%;
+  width: 18%;
+  z-index: 11;
+}
+.a09小滑梯 {
+  position: absolute;
+  left: 7%;
+  top: 10%;
+  width: 18%;
+  z-index: 11;
+}
+.a09小隧道 {
+  position: absolute;
+  left: 75%;
+  top: 18%;
+  width: 18%;
+  z-index: 11;
+}
+.a09墊腳台 {
+  position: absolute;
+  left: 75%;
+  top: 14%;
+  width: 18%;
+  z-index: 11;
+}
+.a09翹翹板 {
+  position: absolute;
+  left: 7%;
+  top: 14%;
+  width: 18%;
+  z-index: 11;
+}
+
+
+.a15t2 {
+  position: absolute;
+  left: 8%;
+  top: 91%;
+  width: 30%;
+  z-index: 11;
+}
+
+
+
+
+
+
+
+
+
+
+.rotate {
+  -webkit-animation: rotate 1s infinite alternate step-start;
+  animation: rotate 1s infinite alternate step-start;
+}
+
+.light {
+  -webkit-animation: light 1s infinite step-start;
+  animation: light 1s infinite step-start;
+}
+
+.move {
+  -webkit-animation: move 1s infinite step-start;
+  animation: move 1s infinite step-start;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+  }
+  100% {
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+}
+
+@-webkit-keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(10%);
+    transform: translateX(10%);
+  }
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(3%);
+    transform: translateX(3);
+  }
+}
+
+
