@@ -77,6 +77,13 @@ img {
 }
 
 
+.video9 {
+  position: absolute;
+  left: 56%;
+  top: 31%;
+  width: 43%;
+  z-index: 0;
+}
 
 
 
