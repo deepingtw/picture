@@ -40,5 +40,5 @@ img {
   left: 0%;
   top: 0%;
   width: 100%;
-  z-index: 8;
+  z-index: -5;
 }
