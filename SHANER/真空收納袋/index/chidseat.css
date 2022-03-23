@@ -1,0 +1,44 @@
+img {
+  max-width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+
+
+
+
+.影片背景 {
+  position: relative;
+  z-index: 2;
+}
+
+.video1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 1;
+}
+
+
+
+
+
+.共用1 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 5;
+}
+
+.共用2 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  z-index: 2;
+}
