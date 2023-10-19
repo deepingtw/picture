@@ -6,10 +6,6 @@ img {
   position: relative;
 }
 
-
-
-
-
 .影片背景 {
   position: relative;
   z-index: 2;
@@ -21,17 +17,18 @@ img {
   top: 0%;
   width: 100%;
   z-index: 1;
+  display: block;
 }
 
 .video2 {
   width: 100%;
+  display: block;
 }
 
 .video10 {
   width: 100%;
+  display: block;
 }
-
-
 
 .共用1 {
   position: absolute;
